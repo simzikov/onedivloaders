@@ -1,0 +1,27 @@
+{
+  "name": "onedivloaders",
+  "version": "1.0.0",
+  "description": "An open-source collection of monochrome loaders (loading spinners) built with pure CSS and one div element.",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simzikov/onedivloaders.git"
+  },
+  "keywords": [
+    "loaders",
+    "preloaders",
+    "loading spinners",
+    "animated loaders",
+    "animated preloaders",
+    "animated loading spinners"
+  ],
+  "author": "Evgenii Simzikov <simzikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simzikov/onedivloaders/issues"
+  },
+  "homepage": "https://github.com/simzikov/onedivloaders#readme"
+}
